@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: 4ba7fccdce2937147a00c5411fc6343c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6672771545906029999
+    second: slicer_die_0
+  - first:
+      213: -5217588687886548726
+    second: slicer_die_1
+  - first:
+      213: -3334327745161538252
+    second: slicer_die_2
+  - first:
+      213: -5398403579499677691
+    second: slicer_die_3
+  - first:
+      213: 143964334599814659
+    second: slicer_die_4
+  - first:
+      213: 2276622619597119192
+    second: slicer_die_5
+  - first:
+      213: -5285393702929779590
+    second: slicer_die_6
+  - first:
+      213: -876928610781989294
+    second: slicer_die_7
+  - first:
+      213: 6452039352768224347
+    second: slicer_die_8
+  - first:
+      213: 3422888316010580176
+    second: slicer_die_9
+  - first:
+      213: -2617660173573729448
+    second: slicer_die_10
+  - first:
+      213: 3179913045992089431
+    second: slicer_die_11
+  - first:
+      213: -3202600589258655359
+    second: slicer_die_12
+  - first:
+      213: 4293272638186766603
+    second: slicer_die_13
+  - first:
+      213: -3076480764417381516
+    second: slicer_die_14
+  - first:
+      213: -6850336849389794159
+    second: slicer_die_15
+  - first:
+      213: -3655250363725162153
+    second: slicer_die_16
+  - first:
+      213: -4673410844023685555
+    second: slicer_die_17
+  - first:
+      213: -8844740841747432506
+    second: slicer_die_18
+  - first:
+      213: -6325757099042843742
+    second: slicer_die_19
+  - first:
+      213: 2161686269896231381
+    second: slicer_die_20
+  - first:
+      213: -6104973568562575040
+    second: slicer_die_21
+  - first:
+      213: 5881724044345822740
+    second: slicer_die_22
+  - first:
+      213: -4742228328155441442
+    second: slicer_die_23
+  - first:
+      213: 1189501321561390841
+    second: slicer_die_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: slicer_die_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 456
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15adfe202ad8563a0800000000000000
+      internalID: -6672771545906029999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slicer_die_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 459
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a010d6a7bb66797b0800000000000000
+      internalID: -5217588687886548726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slicer_die_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 458
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435dae0f4961ab1d0800000000000000
+      internalID: -3334327745161538252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slicer_die_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 393
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50879b1eb840515b0800000000000000
+      internalID: -5398403579499677691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slicer_die_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 391
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30eb520bcc67ff100800000000000000
+      internalID: 143964334599814659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slicer_die_5
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 387
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de94b0e530389f10800000000000000
+      internalID: 2276622619597119192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slicer_die_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 319
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189f7cf6bb31e83d0800000000000000
+      internalID: -3202600589258655359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slicer_die_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 316
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a355280f656638a0800000000000000
+      internalID: -6325757099042843742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slicer_die_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 324
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e4b1a0bd410a150800000000000000
+      internalID: 5881724044345822740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 83f9e8b73e09b594c9fa86251c6530be
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      slicer_die_0: -6672771545906029999
+      slicer_die_1: -5217588687886548726
+      slicer_die_10: -2617660173573729448
+      slicer_die_11: 3179913045992089431
+      slicer_die_13: 4293272638186766603
+      slicer_die_14: -3076480764417381516
+      slicer_die_15: -6850336849389794159
+      slicer_die_16: -3655250363725162153
+      slicer_die_17: -4673410844023685555
+      slicer_die_18: -8844740841747432506
+      slicer_die_2: -3334327745161538252
+      slicer_die_20: 2161686269896231381
+      slicer_die_21: -6104973568562575040
+      slicer_die_23: -4742228328155441442
+      slicer_die_24: 1189501321561390841
+      slicer_die_3: -5398403579499677691
+      slicer_die_4: 143964334599814659
+      slicer_die_5: 2276622619597119192
+      slicer_die_6: 5881724044345822740
+      slicer_die_7: -3202600589258655359
+      slicer_die_8: -6325757099042843742
+      slicer_die_9: 3422888316010580176
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

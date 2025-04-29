@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: eeafdaa435c63364a9838143bc77b714
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6715417410058406052
+    second: erdying0034_0
+  - first:
+      213: 5574122788941810598
+    second: erdying0034_1
+  - first:
+      213: 1320326931646531036
+    second: erdying0034_2
+  - first:
+      213: 3650198644022165786
+    second: erdying0034_3
+  - first:
+      213: -8254577941766295721
+    second: erdying0034_4
+  - first:
+      213: -8054431126138788733
+    second: erdying0034_5
+  - first:
+      213: 6311245077602502605
+    second: erdying0034_6
+  - first:
+      213: 9111969220232507916
+    second: erdying0034_7
+  - first:
+      213: 9213943918638065296
+    second: erdying0034_8
+  - first:
+      213: 2005353268948937057
+    second: erdying0034_9
+  - first:
+      213: 2951244246058040811
+    second: erdying0034_10
+  - first:
+      213: -9050061592820961139
+    second: erdying0034_11
+  - first:
+      213: 794548645601381346
+    second: erdying0034_12
+  - first:
+      213: -2293902139361383287
+    second: erdying0034_13
+  - first:
+      213: -8178924200210052940
+    second: erdying0034_14
+  - first:
+      213: 1876042928307506559
+    second: erdying0034_15
+  - first:
+      213: -1693383775746196777
+    second: erdying0034_16
+  - first:
+      213: 1705885249232595659
+    second: erdying0034_17
+  - first:
+      213: -3639770830095851962
+    second: erdying0034_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: erdying0034_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 225
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57bef2027b0ec2a0800000000000000
+      internalID: -6715417410058406052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erdying0034_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 286
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab4941c4234b5d40800000000000000
+      internalID: 5574122788941810598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erdying0034_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 287
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd54c24595eb25210800000000000000
+      internalID: 1320326931646531036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erdying0034_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 288
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11cd80c35c18a230800000000000000
+      internalID: 3650198644022165786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erdying0034_4
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 263
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fae3ab819d17d80800000000000000
+      internalID: -8254577941766295721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erdying0034_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 228
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384e5a2a099e83090800000000000000
+      internalID: -8054431126138788733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erdying0034_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 203
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc70eeca5fb069750800000000000000
+      internalID: 6311245077602502605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erdying0034_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 204
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0270408ab7347e70800000000000000
+      internalID: 9111969220232507916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erdying0034_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 159
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096eaca2d218edf70800000000000000
+      internalID: 9213943918638065296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erdying0034_9
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 102
+        width: 62
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169aedc5c2274db10800000000000000
+      internalID: 2005353268948937057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erdying0034_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed74b3610de4f820800000000000000
+      internalID: 2951244246058040811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erdying0034_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 121
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80308c3ee8b76280800000000000000
+      internalID: -9050061592820961139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erdying0034_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 81
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb86d198cdc60b00800000000000000
+      internalID: 794548645601381346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erdying0034_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 82
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c2bd9682c6a20e0800000000000000
+      internalID: -2293902139361383287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erdying0034_14
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 29
+        width: 97
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b842a116cf9e7e80800000000000000
+      internalID: -8178924200210052940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erdying0034_15
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 64
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d07258a1b090a10800000000000000
+      internalID: 1876042928307506559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erdying0034_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 61
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dafc3a8d64ef78e0800000000000000
+      internalID: -1693383775746196777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erdying0034_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 43
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca661498958ca710800000000000000
+      internalID: 1705885249232595659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erdying0034_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 24
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ede40e6bfec7dc0800000000000000
+      internalID: -3639770830095851962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      erdying0034_0: -6715417410058406052
+      erdying0034_1: 5574122788941810598
+      erdying0034_10: 2951244246058040811
+      erdying0034_11: -9050061592820961139
+      erdying0034_12: 794548645601381346
+      erdying0034_13: -2293902139361383287
+      erdying0034_14: -8178924200210052940
+      erdying0034_15: 1876042928307506559
+      erdying0034_16: -1693383775746196777
+      erdying0034_17: 1705885249232595659
+      erdying0034_18: -3639770830095851962
+      erdying0034_2: 1320326931646531036
+      erdying0034_3: 3650198644022165786
+      erdying0034_4: -8254577941766295721
+      erdying0034_5: -8054431126138788733
+      erdying0034_6: 6311245077602502605
+      erdying0034_7: 9111969220232507916
+      erdying0034_8: 9213943918638065296
+      erdying0034_9: 2005353268948937057
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

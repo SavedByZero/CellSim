@@ -1,0 +1,1730 @@
+fileFormatVersion: 2
+guid: 51095d75d33fabb4e9172f32b96722da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3868131508830278218
+    second: mrna_die_0
+  - first:
+      213: 33944758772492086
+    second: mrna_die_1
+  - first:
+      213: -2000803268754495063
+    second: mrna_die_2
+  - first:
+      213: -3721593467410860590
+    second: mrna_die_3
+  - first:
+      213: -1231434479286156954
+    second: mrna_die_4
+  - first:
+      213: -87225072552877624
+    second: mrna_die_5
+  - first:
+      213: 4413154672849105545
+    second: mrna_die_6
+  - first:
+      213: 4711588266514876709
+    second: mrna_die_7
+  - first:
+      213: 1072475547226818076
+    second: mrna_die_8
+  - first:
+      213: -1866577874688070006
+    second: mrna_die_9
+  - first:
+      213: 6786250308091367570
+    second: mrna_die_10
+  - first:
+      213: -5249943960194229738
+    second: mrna_die_11
+  - first:
+      213: 8027508677052693324
+    second: mrna_die_12
+  - first:
+      213: 7184843295731092870
+    second: mrna_die_13
+  - first:
+      213: 3097978039242046271
+    second: mrna_die_14
+  - first:
+      213: -468601572572949151
+    second: mrna_die_15
+  - first:
+      213: -2179347334123106823
+    second: mrna_die_16
+  - first:
+      213: 6526063707781522319
+    second: mrna_die_17
+  - first:
+      213: -8674843783108531835
+    second: mrna_die_18
+  - first:
+      213: -8838827127017209516
+    second: mrna_die_19
+  - first:
+      213: 8290111754940296471
+    second: mrna_die_20
+  - first:
+      213: -5011704950874927501
+    second: mrna_die_21
+  - first:
+      213: -5558073928002592146
+    second: mrna_die_22
+  - first:
+      213: 4481354398477578830
+    second: mrna_die_23
+  - first:
+      213: -1820253668145137069
+    second: mrna_die_24
+  - first:
+      213: -4810191673797081998
+    second: mrna_die_25
+  - first:
+      213: -978932488865073892
+    second: mrna_die_26
+  - first:
+      213: 587749734902505228
+    second: mrna_die_27
+  - first:
+      213: -5276236792137780943
+    second: mrna_die_28
+  - first:
+      213: -2632592263848530489
+    second: mrna_die_29
+  - first:
+      213: 7457947875491131592
+    second: mrna_die_30
+  - first:
+      213: 6207130036277434775
+    second: mrna_die_31
+  - first:
+      213: 5782406107987479642
+    second: mrna_die_32
+  - first:
+      213: 853552394518852757
+    second: mrna_die_33
+  - first:
+      213: 5335523792084970687
+    second: mrna_die_34
+  - first:
+      213: 3566239504954983979
+    second: mrna_die_35
+  - first:
+      213: -2849119948608887418
+    second: mrna_die_36
+  - first:
+      213: 1582797162867442746
+    second: mrna_die_37
+  - first:
+      213: 1102472977568352497
+    second: mrna_die_38
+  - first:
+      213: 6044836560840430816
+    second: mrna_die_39
+  - first:
+      213: -1854706121674174765
+    second: mrna_die_40
+  - first:
+      213: -3280621231444370103
+    second: mrna_die_41
+  - first:
+      213: -6944665553731751405
+    second: mrna_die_42
+  - first:
+      213: -7365208603820489114
+    second: mrna_die_43
+  - first:
+      213: 1807656565745563943
+    second: mrna_die_44
+  - first:
+      213: 3527613085171803793
+    second: mrna_die_45
+  - first:
+      213: -8547635863630581588
+    second: mrna_die_46
+  - first:
+      213: 5471114285802372260
+    second: mrna_die_47
+  - first:
+      213: -418279059769416793
+    second: mrna_die_48
+  - first:
+      213: -8336230976118890316
+    second: mrna_die_49
+  - first:
+      213: -5594141879756432999
+    second: mrna_die_50
+  - first:
+      213: -6414664908306828744
+    second: mrna_die_51
+  - first:
+      213: -4799508106971533055
+    second: mrna_die_52
+  - first:
+      213: 6606265205939839519
+    second: mrna_die_53
+  - first:
+      213: 6914028382676897068
+    second: mrna_die_54
+  - first:
+      213: 3799919123472464514
+    second: mrna_die_55
+  - first:
+      213: 157735518577898545
+    second: mrna_die_56
+  - first:
+      213: -5556783360819833170
+    second: mrna_die_57
+  - first:
+      213: 6021710648333118425
+    second: mrna_die_58
+  - first:
+      213: 1540135046798263606
+    second: mrna_die_59
+  - first:
+      213: 3112464248809812050
+    second: mrna_die_60
+  - first:
+      213: 7668786290796011631
+    second: mrna_die_61
+  - first:
+      213: 6016007012256485240
+    second: mrna_die_62
+  - first:
+      213: -217727235289690115
+    second: mrna_die_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mrna_die_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 953
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdecaf03e2a15ac0800000000000000
+      internalID: -3868131508830278218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 952
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637ee980498987000800000000000000
+      internalID: 33944758772492086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 952
+        width: 8
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9a27c1708bb34e0800000000000000
+      internalID: -2000803268754495063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 951
+        width: 8
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5bf80957e3a5cc0800000000000000
+      internalID: -3721593467410860590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_4
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 952
+        width: 8
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6610bf19dd019eee0800000000000000
+      internalID: -1231434479286156954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 870
+        width: 8
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c16af6324d1acef0800000000000000
+      internalID: -87225072552877624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 891
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982b6060bccae3d30800000000000000
+      internalID: 4413154672849105545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 902
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5298489b09ce26140800000000000000
+      internalID: 4711588266514876709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_8
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 892
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c164fb6f3d232ee00800000000000000
+      internalID: 1072475547226818076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_9
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 903
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e2d9100559816e0800000000000000
+      internalID: -1866577874688070006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_10
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 894
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290dbaa33ba9d2e50800000000000000
+      internalID: 6786250308091367570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_11
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 903
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a5ae998c37427b0800000000000000
+      internalID: -5249943960194229738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_12
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 895
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b77173c90776f60800000000000000
+      internalID: 8027508677052693324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 869
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d06e819e0b5b360800000000000000
+      internalID: 7184843295731092870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_14
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 868
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bbbf6ec9a3efa20800000000000000
+      internalID: 3097978039242046271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_15
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 877
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165999d3a513f79f0800000000000000
+      internalID: -468601572572949151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_16
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 868
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdc563752761c1e0800000000000000
+      internalID: -2179347334123106823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_17
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 876
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83e2eb9d5c319a50800000000000000
+      internalID: 6526063707781522319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_18
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 871
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5896fc16a83cc9780800000000000000
+      internalID: -8674843783108531835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_19
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 867
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4518d0fde8d265580800000000000000
+      internalID: -8838827127017209516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_20
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 823
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71da18dd7b46c0370800000000000000
+      internalID: 8290111754940296471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_21
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 824
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e880c76e8d27ab0800000000000000
+      internalID: -5011704950874927501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_22
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 825
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62ab0ed531cdd2b0800000000000000
+      internalID: -5558073928002592146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_23
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 826
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42f3e90518f03e30800000000000000
+      internalID: 4481354398477578830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_24
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 818
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a7b15dee82db6e0800000000000000
+      internalID: -1820253668145137069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_25
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 827
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27488cd7824ce3db0800000000000000
+      internalID: -4810191673797081998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_26
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 818
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15bb1686122a62f0800000000000000
+      internalID: -978932488865073892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_27
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 815
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f91b5154b182800800000000000000
+      internalID: 587749734902505228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_28
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 817
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131f7cd979a07c6b0800000000000000
+      internalID: -5276236792137780943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 818
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cdeddab847277bd0800000000000000
+      internalID: -2632592263848530489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_30
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 785
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c037003414ff7760800000000000000
+      internalID: 7457947875491131592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 790
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79959f691e7242650800000000000000
+      internalID: 6207130036277434775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_32
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 784
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c84adf7bb3f3050800000000000000
+      internalID: 5782406107987479642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_33
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 790
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594fa78616d68db00800000000000000
+      internalID: 853552394518852757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_34
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 783
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcaeddbe969b0a40800000000000000
+      internalID: 5335523792084970687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_35
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 790
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b268ecc5fe3dd7130800000000000000
+      internalID: 3566239504954983979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_36
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 782
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68520b48084e578d0800000000000000
+      internalID: -2849119948608887418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_37
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 790
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34c53432a937f510800000000000000
+      internalID: 1582797162867442746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_38
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 790
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8cd6af455cc4f00800000000000000
+      internalID: 1102472977568352497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_39
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 780
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4103e33d293e350800000000000000
+      internalID: 6044836560840430816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_40
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 746
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de4ed6eb92c246e0800000000000000
+      internalID: -1854706121674174765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_41
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 747
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d57291f54e872d0800000000000000
+      internalID: -3280621231444370103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_42
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 749
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3127de929779f9f90800000000000000
+      internalID: -6944665553731751405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_43
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 750
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66601a02cc589c990800000000000000
+      internalID: -7365208603820489114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_44
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 742
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729ba25b116161910800000000000000
+      internalID: 1807656565745563943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 751
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1966fae296994f030800000000000000
+      internalID: 3527613085171803793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_46
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 744
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0f8e62872b06980800000000000000
+      internalID: -8547635863630581588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_47
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 738
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acb0daa47d4deb40800000000000000
+      internalID: 5471114285802372260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_48
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 739
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3a5794969f13af0800000000000000
+      internalID: -418279059769416793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_49
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 741
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b063de2812cf4c80800000000000000
+      internalID: -8336230976118890316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_50
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 698
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9995bf1799d9d52b0800000000000000
+      internalID: -5594141879756432999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 708
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832353390488af6a0800000000000000
+      internalID: -6414664908306828744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_52
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 707
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101ba5b3ec8b46db0800000000000000
+      internalID: -4799508106971533055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_53
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 706
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12211c043b2eab50800000000000000
+      internalID: 6606265205939839519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_54
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 705
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dcc649e2093ff50800000000000000
+      internalID: 6914028382676897068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_55
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 616
+        width: 36
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a3ac95f460cb430800000000000000
+      internalID: 3799919123472464514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_56
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 528
+        width: 143
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1343c415e93603200800000000000000
+      internalID: 157735518577898545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_57
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 596
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6588479f652e2b0800000000000000
+      internalID: -5556783360819833170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_58
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 671
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db25162ee9619350800000000000000
+      internalID: 6021710648333118425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_59
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 664
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6354a824aa8af5510800000000000000
+      internalID: 1540135046798263606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_60
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 672
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25079666eb1b13b20800000000000000
+      internalID: 3112464248809812050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_61
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 612
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60284120800d6a60800000000000000
+      internalID: 7668786290796011631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_62
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 610
+        width: 146
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f8ec3e0862d7350800000000000000
+      internalID: 6016007012256485240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_die_63
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 676
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff41aaab3a7afcf0800000000000000
+      internalID: -217727235289690115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

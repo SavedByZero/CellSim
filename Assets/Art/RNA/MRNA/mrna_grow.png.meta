@@ -1,0 +1,911 @@
+fileFormatVersion: 2
+guid: 727bfb934e9f4054e94dc0c8efe20214
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5712898407922070036
+    second: mrna_grow_0
+  - first:
+      213: -7844596777000373540
+    second: mrna_grow_1
+  - first:
+      213: 5430513435862763927
+    second: mrna_grow_2
+  - first:
+      213: 1955026846717301687
+    second: mrna_grow_3
+  - first:
+      213: -3697328053005621557
+    second: mrna_grow_4
+  - first:
+      213: -976711077189304505
+    second: mrna_grow_5
+  - first:
+      213: 5653760592352550838
+    second: mrna_grow_6
+  - first:
+      213: -5368468798865872981
+    second: mrna_grow_7
+  - first:
+      213: -476226922088563474
+    second: mrna_grow_8
+  - first:
+      213: -334908953885995314
+    second: mrna_grow_9
+  - first:
+      213: 3556291940634472158
+    second: mrna_grow_10
+  - first:
+      213: 2389623287334632257
+    second: mrna_grow_11
+  - first:
+      213: -3079989294281590501
+    second: mrna_grow_12
+  - first:
+      213: 5016408429329446828
+    second: mrna_grow_13
+  - first:
+      213: -601946965303243561
+    second: mrna_grow_14
+  - first:
+      213: -3800051066900361231
+    second: mrna_grow_15
+  - first:
+      213: 5269876241413242150
+    second: mrna_grow_16
+  - first:
+      213: -220375430573104947
+    second: mrna_grow_17
+  - first:
+      213: 2241918586955880991
+    second: mrna_grow_18
+  - first:
+      213: -5851167439903160326
+    second: mrna_grow_19
+  - first:
+      213: 6017593538779973882
+    second: mrna_grow_20
+  - first:
+      213: -8430795423059630550
+    second: mrna_grow_21
+  - first:
+      213: 7461185637588511026
+    second: mrna_grow_22
+  - first:
+      213: -1533020527310473278
+    second: mrna_grow_23
+  - first:
+      213: 5282814754613966433
+    second: mrna_grow_24
+  - first:
+      213: -7826362351697778327
+    second: mrna_grow_25
+  - first:
+      213: -1315548202160336082
+    second: mrna_grow_26
+  - first:
+      213: -4082113620298266372
+    second: mrna_grow_27
+  - first:
+      213: -8773252725397238997
+    second: mrna_grow_28
+  - first:
+      213: 874606066740545348
+    second: mrna_grow_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mrna_grow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 173
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced09ed8a25b7b0b0800000000000000
+      internalID: -5712898407922070036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2f7b43bc4622390800000000000000
+      internalID: -7844596777000373540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_2
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 139
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7990694a23f0d5b40800000000000000
+      internalID: 5430513435862763927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 139
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3dfe41f86a12b10800000000000000
+      internalID: 1955026846717301687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_4
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 139
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6638e99b370bcc0800000000000000
+      internalID: -3697328053005621557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 139
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f31fb33760272f0800000000000000
+      internalID: -976711077189304505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf9648cd41367e40800000000000000
+      internalID: 5653760592352550838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 104
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7e4df121e5f75b0800000000000000
+      internalID: -5368468798865872981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 104
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecfe64332a1469f0800000000000000
+      internalID: -476226922088563474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 104
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece0783b41a2a5bf0800000000000000
+      internalID: -334908953885995314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_10
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 104
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede2a1f8dac7a5130800000000000000
+      internalID: 3556291940634472158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_11
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 104
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bf49418b5a92120800000000000000
+      internalID: 2389623287334632257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 7
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19f65a2e0ea145d0800000000000000
+      internalID: -3079989294281590501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 69
+        width: 8
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7f47e63ecdd9540800000000000000
+      internalID: 5016408429329446828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_14
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 69
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcc97f9c6475a7f0800000000000000
+      internalID: -601946965303243561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 69
+        width: 8
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff4f0d20b1834bc0800000000000000
+      internalID: -3800051066900361231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_16
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 69
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62df4b3458c522940800000000000000
+      internalID: 5269876241413242150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 69
+        width: 7
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc06777a6b111fcf0800000000000000
+      internalID: -220375430573104947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 7
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ad9de9315ec1f10800000000000000
+      internalID: 2241918586955880991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_19
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 34
+        width: 8
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af78d37d63a7ccea0800000000000000
+      internalID: -5851167439903160326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 34
+        width: 8
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af88aa1e079c28350800000000000000
+      internalID: 6017593538779973882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_21
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 34
+        width: 8
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26aa822b3ccffa80800000000000000
+      internalID: -8430795423059630550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_22
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 34
+        width: 8
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239a5bb6ec47b8760800000000000000
+      internalID: 7461185637588511026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_23
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 34
+        width: 7
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7f644e3fd99bae0800000000000000
+      internalID: -1533020527310473278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 7
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16635fe9704505940800000000000000
+      internalID: 5282814754613966433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_25
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 8
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969209f28ec236390800000000000000
+      internalID: -7826362351697778327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_26
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 8
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23545551eb3ebde0800000000000000
+      internalID: -1315548202160336082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_27
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 8
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf886515a4b6957c0800000000000000
+      internalID: -4082113620298266372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_28
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 8
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b48f101252f3680800000000000000
+      internalID: -8773252725397238997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrna_grow_29
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 7
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447c8767599332c00800000000000000
+      internalID: 874606066740545348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: eac666d936e8bf74d917531ec92a28cc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mrna_grow_0: -5712898407922070036
+      mrna_grow_1: -7844596777000373540
+      mrna_grow_10: 3556291940634472158
+      mrna_grow_11: 2389623287334632257
+      mrna_grow_12: -3079989294281590501
+      mrna_grow_13: 5016408429329446828
+      mrna_grow_14: -601946965303243561
+      mrna_grow_15: -3800051066900361231
+      mrna_grow_16: 5269876241413242150
+      mrna_grow_17: -220375430573104947
+      mrna_grow_18: 2241918586955880991
+      mrna_grow_19: -5851167439903160326
+      mrna_grow_2: 5430513435862763927
+      mrna_grow_20: 6017593538779973882
+      mrna_grow_21: -8430795423059630550
+      mrna_grow_22: 7461185637588511026
+      mrna_grow_23: -1533020527310473278
+      mrna_grow_24: 5282814754613966433
+      mrna_grow_25: -7826362351697778327
+      mrna_grow_26: -1315548202160336082
+      mrna_grow_27: -4082113620298266372
+      mrna_grow_28: -8773252725397238997
+      mrna_grow_29: 874606066740545348
+      mrna_grow_3: 1955026846717301687
+      mrna_grow_30: 1407510359
+      mrna_grow_4: -3697328053005621557
+      mrna_grow_5: -976711077189304505
+      mrna_grow_6: 5653760592352550838
+      mrna_grow_7: -5368468798865872981
+      mrna_grow_8: -476226922088563474
+      mrna_grow_9: -334908953885995314
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
